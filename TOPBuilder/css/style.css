@@ -761,8 +761,8 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   line-height: 50px;
   width: 60px;
   text-align: center;
-  background: #333333;
-  border: 5px solid #0068b3;
+  /*background: #333333;
+  border: 5px solid #0068b3;*/
 }
 .our_feature_area .feature_row .feature_content .media .media-body a {
   font: 700 18px "Roboto", sans-serif;
